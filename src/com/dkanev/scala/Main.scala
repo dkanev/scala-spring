@@ -4,5 +4,5 @@ package com.dkanev.scala
  * @author dkanev
  */
 object Main extends App {
-  println("Hello world Fix bug PR 12h")
+  println("Hello world Fix bug PR 14h")
 }
